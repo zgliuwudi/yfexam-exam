@@ -33,9 +33,9 @@
 
     </el-form>
 
-    <div style="display: flex; align-items: center; justify-content: flex-end">
+    <!-- <div style="display: flex; align-items: center; justify-content: flex-end">
       <el-link type="primary" href="/#/register">立即注册</el-link>
-    </div>
+    </div> -->
 
   </div>
 
